@@ -25,6 +25,8 @@ FreeVpn is a free and unlimited VPN (Virtual Private Network) proxy for Android 
 
 * All features that VPNs should have.
 
+* Multi server locations,[US,GB,AU,CA...].
+
 ## Screeshots:
 
 <h1 align="left">
