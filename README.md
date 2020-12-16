@@ -6,10 +6,11 @@
 </h1>
 
 # Reasons for developing this app:
-Hate all kinds of fake free apps.
+Hate all kinds of fake free apps with lots of annoying ads.
 
 # FreeVpn
 Welcome to FreeVpn
+
 FreeVpn is a free and unlimited VPN (Virtual Private Network) proxy for Android devices.
 
 * No annoying ads, no in-app purchases, free forever.
