@@ -30,7 +30,7 @@ FreeVpn is a free and unlimited VPN (Virtual Private Network) proxy for Android 
 ## Screeshots:
 
 <h1 align="left">
-    <a href="https://github.com/FreeVpnForever/FreeVpn/blob/main/freevpn1.jpg">
+    <a href="https://github.com/FreeVpnForever/FreeVpn/blob/main/freevpn1.png">
         <img alt="Logo" src="https://github.com/FreeVpnForever/FreeVpn/blob/main/freevpn1.jpg" width="200">
     </a>
     <a href="https://github.com/FreeVpnForever/FreeVpn/blob/main/freevpn2.jpg">
