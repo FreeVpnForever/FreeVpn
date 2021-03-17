@@ -19,6 +19,8 @@ FreeVpn is a free and unlimited VPN (Virtual Private Network) proxy for Android 
 
 * No additional permissions required.
 
+* Special load balance mode.
+
 * DNS leak protections.
 
 * Split traffic by selected apps.
@@ -31,7 +33,7 @@ FreeVpn is a free and unlimited VPN (Virtual Private Network) proxy for Android 
 
 <h1 align="left">
     <a href="https://github.com/FreeVpnForever/FreeVpn/blob/main/freevpn1.png">
-        <img alt="Logo" src="https://github.com/FreeVpnForever/FreeVpn/blob/main/freevpn1.jpg" width="200">
+        <img alt="Logo" src="https://github.com/FreeVpnForever/FreeVpn/blob/main/freevpn1.png" width="200">
     </a>
     <a href="https://github.com/FreeVpnForever/FreeVpn/blob/main/freevpn2.jpg">
         <img alt="Logo" src="https://github.com/FreeVpnForever/FreeVpn/blob/main/freevpn2.jpg" width="200">
@@ -44,4 +46,4 @@ FreeVpn is a free and unlimited VPN (Virtual Private Network) proxy for Android 
 
 ## Google Play Link:
 
-<a href="https://github.com/FreeVpnForever/FreeVpn/releases/download/1.0.0/FreeVpn.apk"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a> working on it ...
+<a href="https://play.google.com/store/apps/details?id=com.freevpn.forever"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
